@@ -8,4 +8,4 @@ This is an updated version to my first injector, [Injector](https://github.com/D
 Now with a updated GUI using Qt, better logging, and better injection with the same, simple feel.
 Want or need anything added? Join our <a href="https://discord.gg/7nGkqwdJhn">Discord</a> to let me know!
 
-- This goes well with this injector - https://github.com/Do0ks/MemRE
+- This goes well with this memory scanner - https://github.com/Do0ks/MemRE
